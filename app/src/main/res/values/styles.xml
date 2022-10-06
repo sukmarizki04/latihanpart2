@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="textcostum" >
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#ccff90</item>
+    </style>
+    <style name="randomtext">
+        <item name="android:textColor">#69f0ae</item>
+    </style>
+</resources>
